@@ -18,7 +18,7 @@ int main()
 {
     int numero = 5; //Modificando para Teste
     int num_fat = calc_fat(numero);
-    printf("\nO fatorial de %d eh: %d", numero , num_fat);
+    printf("\nEste programa calcula o fatorial de %d eh: %d", numero , num_fat);
     return 0;
 }
 
